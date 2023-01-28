@@ -1,4 +1,4 @@
-#Sort Integers by The Power Value
+//Sort Integers by The Power Value
 
 import java.util.*;
 class Solution {
